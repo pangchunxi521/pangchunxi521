@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=pangchunxi521&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" height="180"/>
-<img src="http://oracle.vps8.top/img/1.gif" width="160" height="160"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=pangchunxi521&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" height="180" style="padding-top:14px"/>
+<img src="http://oracle.vps8.top/img/1.gif" width="175" height="175"/>
 
