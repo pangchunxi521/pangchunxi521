@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <img src="http://www.nbpluss.cn/img/1.gif" width="160" height="160"/>
 -->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=pangchunxi521&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=04ff16&hide_title=false" height="180" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=pangchunxi521&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=04ff16&hide_title=false" height="160" />
 
 <img src="https://pangchunxi.top/img/l.gif" width="160" height="160"/>
 
