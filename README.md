@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=pangchunxi521&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=04ff16&hide_title=false" height="180" /> -->
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=pangchunxi521&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=pangchunxi521&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /> -->
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pangchunxi521&layout=compact" />
 
 
 <img src="https://pangchunxi.top/img/l.gif" width="160" height="160"/>
